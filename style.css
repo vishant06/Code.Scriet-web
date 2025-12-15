@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(213, 133, 27);
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+.left {
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+.words {
+    margin-left: 10px;
+    
+}
